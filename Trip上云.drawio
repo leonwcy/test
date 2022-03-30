@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T13:04:09.816Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="3BsHI_lk12mnTOeLedrJ" version="17.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-30T13:04:41.036Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="kDgqkOPPeuXrupmJJgLT" version="17.2.4" type="github" pages="3">
   <diagram name="Trip 上云" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="2762" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -467,6 +467,9 @@
         <mxCell id="lMIHU1iP8epaT2ZkA2I9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lMIHU1iP8epaT2ZkA2I9-1" target="lMIHU1iP8epaT2ZkA2I9-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lMIHU1iP8epaT2ZkA2I9-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lMIHU1iP8epaT2ZkA2I9-1" target="lMIHU1iP8epaT2ZkA2I9-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <object placeholders="1" c4Name="用车航班系统" c4Type="接口" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lMIHU1iP8epaT2ZkA2I9-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="350" y="-170" width="240" height="120" as="geometry" />
@@ -734,9 +737,6 @@
             <mxGeometry x="350" y="50" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="lMIHU1iP8epaT2ZkA2I9-77" value="数据落地" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="470.0011656574398" y="4.547473508864641e-13" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
