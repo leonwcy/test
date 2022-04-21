@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T07:40:23.724Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="T87ercqm44zVvMclJbxA" version="17.4.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-21T03:11:37.241Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="mBTGkTW8rYSfx7bGsCRD" version="17.4.5" type="github" pages="3">
   <diagram id="ULr9he8bzYKg36-cf972" name="售卖">
     <mxGraphModel dx="2762" dy="1612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="售卖上云" id="rUuttjEvb9gJXDwoxkAD">
-    <mxGraphModel dx="2762" dy="1612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3055" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="yWsnA2hpRPMM7yK7ewgN-0" />
         <mxCell id="yWsnA2hpRPMM7yK7ewgN-1" parent="yWsnA2hpRPMM7yK7ewgN-0" />
@@ -295,34 +295,26 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EPRMKSEMaAA7T8euCOGo" name="客服上云">
-    <mxGraphModel dx="1955" dy="2105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2782" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GEGbZZbwn5nNs-zZi230-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-1" target="GEGbZZbwn5nNs-zZi230-32">
+        <mxCell id="GEGbZZbwn5nNs-zZi230-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-1" target="GEGbZZbwn5nNs-zZi230-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="workbench-rest-service" c4Type="上云" c4Description="100026271" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="280" y="420" width="240" height="120" as="geometry" />
+            <mxGeometry x="30" y="280" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="AWS" c4Type="SystemScopeBoundary" c4Application="新加坡" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-2">
+        <object placeholders="1" c4Name="AWS" c4Type="SystemScopeBoundary" c4Application="工作台订单日志上云" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-2">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="180" y="210" width="510" height="740" as="geometry" />
+            <mxGeometry x="-370" y="90" width="660" height="860" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="GEGbZZbwn5nNs-zZi230-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-3" target="GEGbZZbwn5nNs-zZi230-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <object placeholders="1" c4Type="igtOrderdb" c4Container="Container " c4Technology="mysql" c4Description="单向同步" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-3">
-          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
-            <mxGeometry x="280" y="600" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="Ctrip" c4Type="" c4Application="上海" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-6">
+        <object placeholders="1" c4Name="Ctrip" c4Type="" c4Application="工作台订单日志上云" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-6">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="740" y="210" width="370" height="740" as="geometry" />
+            <mxGeometry x="490" y="80" width="620" height="870" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="GEGbZZbwn5nNs-zZi230-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-8" target="GEGbZZbwn5nNs-zZi230-23">
@@ -330,46 +322,41 @@
             <mxPoint x="900" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GEGbZZbwn5nNs-zZi230-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-8" target="GEGbZZbwn5nNs-zZi230-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="580" y="660" />
-              <mxPoint x="580" y="660" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="GEGbZZbwn5nNs-zZi230-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-8" target="GEGbZZbwn5nNs-zZi230-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GEGbZZbwn5nNs-zZi230-36" value="海外部分订单信息&lt;br&gt;通过规则同步AWS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GEGbZZbwn5nNs-zZi230-35">
-          <mxGeometry x="0.1923" y="-1" relative="1" as="geometry">
+        <mxCell id="GEGbZZbwn5nNs-zZi230-67" value="B1：T用户订单信息同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GEGbZZbwn5nNs-zZi230-64">
+          <mxGeometry x="0.3601" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Type="igtOrderdb" c4Container="Container " c4Technology="mysql" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-8">
+        <object placeholders="1" c4Type="用车订单数据库" c4Container="mysql" c4Technology="igtOrderdb" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-8">
           <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
-            <mxGeometry x="780" y="600" width="240" height="120" as="geometry" />
+            <mxGeometry x="820" y="600" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="国内客服" c4Type="Person" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-10">
           <mxCell style="html=1;fontSize=11;dashed=0;whitespace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
-            <mxGeometry x="800" y="-50" width="200" height="180" as="geometry" />
+            <mxGeometry x="840" y="-120" width="200" height="180" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="GEGbZZbwn5nNs-zZi230-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-22" target="GEGbZZbwn5nNs-zZi230-10">
+        <mxCell id="GEGbZZbwn5nNs-zZi230-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-22" target="GEGbZZbwn5nNs-zZi230-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="workbench-rest-service" c4Type="不上云" c4Description="100026271" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-22">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="780" y="240" width="240" height="120" as="geometry" />
+            <mxGeometry x="820" y="260" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="GEGbZZbwn5nNs-zZi230-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-23" target="GEGbZZbwn5nNs-zZi230-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="900" y="380" />
-              <mxPoint x="900" y="380" />
+              <mxPoint x="940" y="390" />
+              <mxPoint x="940" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GEGbZZbwn5nNs-zZi230-38" value="国内订单信息查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GEGbZZbwn5nNs-zZi230-25">
+        <mxCell id="GEGbZZbwn5nNs-zZi230-38" value="C2: C订单信息查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GEGbZZbwn5nNs-zZi230-25">
           <mxGeometry x="0.2364" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -377,14 +364,14 @@
         <mxCell id="GEGbZZbwn5nNs-zZi230-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-23" target="GEGbZZbwn5nNs-zZi230-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GEGbZZbwn5nNs-zZi230-37" value="海外订单信息查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GEGbZZbwn5nNs-zZi230-34">
+        <mxCell id="GEGbZZbwn5nNs-zZi230-37" value="C1：T订单信息查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GEGbZZbwn5nNs-zZi230-34">
           <mxGeometry x="0.2769" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="igt-order-query-service" c4Type="订单查询服务" c4Description="100010261" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-23">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="780" y="420" width="240" height="120" as="geometry" />
+            <mxGeometry x="820" y="430" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="GEGbZZbwn5nNs-zZi230-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-24" target="GEGbZZbwn5nNs-zZi230-8">
@@ -393,11 +380,11 @@
         <mxCell id="GEGbZZbwn5nNs-zZi230-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-24" target="GEGbZZbwn5nNs-zZi230-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1330" y="830" />
+              <mxPoint x="1330" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GEGbZZbwn5nNs-zZi230-41" value="QMQ 消息&lt;br&gt;订单变化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GEGbZZbwn5nNs-zZi230-40">
+        <mxCell id="GEGbZZbwn5nNs-zZi230-41" value="QMQ 消息&lt;br&gt;A2： C订单变化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GEGbZZbwn5nNs-zZi230-40">
           <mxGeometry x="-0.1747" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -406,13 +393,18 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1400" y="980" />
-              <mxPoint x="400" y="980" />
+              <mxPoint x="-160" y="980" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GEGbZZbwn5nNs-zZi230-49" value="QMQ 消息&lt;br&gt;Trip 订单变化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GEGbZZbwn5nNs-zZi230-48">
+        <mxCell id="GEGbZZbwn5nNs-zZi230-49" value="QMQ 消息&lt;br&gt;A1：Trip 订单变化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GEGbZZbwn5nNs-zZi230-48">
           <mxGeometry x="-0.1899" y="6" relative="1" as="geometry">
             <mxPoint x="157" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEGbZZbwn5nNs-zZi230-73" value="如果所处IDC是AWS，则消费T的订单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GEGbZZbwn5nNs-zZi230-48">
+          <mxGeometry x="0.6899" relative="1" as="geometry">
+            <mxPoint x="89" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="igt-order-process-service" c4Type="执行订单服务" c4Description="100010262" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-24">
@@ -438,23 +430,115 @@
         </object>
         <object placeholders="1" c4Name="海外客服" c4Type="Person" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-32">
           <mxCell style="html=1;fontSize=11;dashed=0;whitespace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
-            <mxGeometry x="300" y="-60" width="200" height="180" as="geometry" />
+            <mxGeometry x="50" y="-110" width="200" height="180" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="GEGbZZbwn5nNs-zZi230-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-39" target="GEGbZZbwn5nNs-zZi230-8">
+        <mxCell id="GEGbZZbwn5nNs-zZi230-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-39" target="GEGbZZbwn5nNs-zZi230-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEGbZZbwn5nNs-zZi230-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-39" target="GEGbZZbwn5nNs-zZi230-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="dcs-order-offline-service" c4Type="不上云" c4Description="100022635" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-39">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="780" y="770" width="240" height="120" as="geometry" />
+            <mxGeometry x="820" y="780" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="GEGbZZbwn5nNs-zZi230-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-43" target="GEGbZZbwn5nNs-zZi230-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="GEGbZZbwn5nNs-zZi230-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-43" target="GEGbZZbwn5nNs-zZi230-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-120" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEGbZZbwn5nNs-zZi230-61" value="A1：T订单操作写入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GEGbZZbwn5nNs-zZi230-60">
+          <mxGeometry x="0.1654" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEGbZZbwn5nNs-zZi230-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-43" target="GEGbZZbwn5nNs-zZi230-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-130" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEGbZZbwn5nNs-zZi230-68" value="C1：T订单操作信息读取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GEGbZZbwn5nNs-zZi230-65">
+          <mxGeometry x="-0.5869" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="dcs-order-offline-service" c4Type="上云" c4Description="100022635" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-43">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="280" y="770" width="240" height="120" as="geometry" />
+            <mxGeometry x="-280" y="610" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="GEGbZZbwn5nNs-zZi230-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-51" target="GEGbZZbwn5nNs-zZi230-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEGbZZbwn5nNs-zZi230-72" value="B1： T用户订单操作信息同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GEGbZZbwn5nNs-zZi230-71">
+          <mxGeometry x="-0.152" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Type="工作台数据库" c4Container="mysql" c4Technology="dcsworkbenchdb" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-51">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="520" y="780" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="GEGbZZbwn5nNs-zZi230-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.845;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="809.76" as="sourcePoint" />
+            <mxPoint x="-67.19999999999982" y="729.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEGbZZbwn5nNs-zZi230-63" value="T订单操作读取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GEGbZZbwn5nNs-zZi230-62">
+          <mxGeometry x="-0.1532" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Type="工作台数据库" c4Container="mysql" c4Technology="dcsworkbenchdb" c4Description="上云" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-52">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="20" y="780" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="GEGbZZbwn5nNs-zZi230-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-59" target="GEGbZZbwn5nNs-zZi230-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="550" />
+              <mxPoint x="90" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEGbZZbwn5nNs-zZi230-70" value="C1： T订单其他相关信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GEGbZZbwn5nNs-zZi230-66">
+          <mxGeometry x="-0.2" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Type="用车订单数据库" c4Container="mysql" c4Technology="igtOrderdb" c4Description="上云" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-59">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="20" y="600" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="GEGbZZbwn5nNs-zZi230-69" value="C1: T订单信息查询&lt;br&gt;C2: C订单信息查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="960" y="390.58823529411757" as="geometry">
+            <mxPoint x="-28" y="191" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEGbZZbwn5nNs-zZi230-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-75" target="GEGbZZbwn5nNs-zZi230-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="dcs-offline-workbench-order-application" c4Type="NODE 服务 上云" c4Description="100026279" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-75">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="30" y="110" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="GEGbZZbwn5nNs-zZi230-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEGbZZbwn5nNs-zZi230-78" target="GEGbZZbwn5nNs-zZi230-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="dcs-offline-workbench-order-application" c4Type="NODE 服务 不上云" c4Description="100026279" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="GEGbZZbwn5nNs-zZi230-78">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="820" y="100" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
       </root>
