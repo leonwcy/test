@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T06:25:19.436Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="uxbJ8O6FhlVGTGZH8po4" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-27T06:44:39.461Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="A26I19347F6Qjuklc167" version="17.4.6" type="github" pages="5">
   <diagram name="Trip 上云" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="2762" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1698,7 +1698,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hAdcCe3k2b_7Fvoy7IWv" name="通用服务">
-    <mxGraphModel dx="2212" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2489" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1727,13 +1727,13 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="534" y="670" />
-              <mxPoint x="980" y="670" />
+              <mxPoint x="1060" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-24" value="发送Q侧短信" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vg5Hk9WErmP5OCa_BgVV-23">
+        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-24" value="B2： 发送Q侧短信" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vg5Hk9WErmP5OCa_BgVV-23">
           <mxGeometry x="-0.296" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="74" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="通用服务" c4Type="service层 " c4Description="100012768" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="Vg5Hk9WErmP5OCa_BgVV-1">
@@ -1758,27 +1758,23 @@
         <mxCell id="Vg5Hk9WErmP5OCa_BgVV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Vg5Hk9WErmP5OCa_BgVV-3" target="Vg5Hk9WErmP5OCa_BgVV-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="820" y="380" />
-              <mxPoint x="820" y="380" />
+              <mxPoint x="840" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-32" value="导出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vg5Hk9WErmP5OCa_BgVV-30">
-          <mxGeometry x="-0.2222" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vg5Hk9WErmP5OCa_BgVV-3" target="Vg5Hk9WErmP5OCa_BgVV-33">
+        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.403;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Vg5Hk9WErmP5OCa_BgVV-33">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="490" as="sourcePoint" />
+            <mxPoint x="1021" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="940" y="490" />
-              <mxPoint x="940" y="490" />
+              <mxPoint x="990" y="490" />
+              <mxPoint x="990" y="488" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-36" value="导入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vg5Hk9WErmP5OCa_BgVV-35">
+        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-36" value="B6：导入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vg5Hk9WErmP5OCa_BgVV-35">
           <mxGeometry x="0.2625" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-28" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="通用服务" c4Type="rest层" c4Description="100012768" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="Vg5Hk9WErmP5OCa_BgVV-3">
@@ -1789,7 +1785,7 @@
         <mxCell id="Vg5Hk9WErmP5OCa_BgVV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vg5Hk9WErmP5OCa_BgVV-5" target="Vg5Hk9WErmP5OCa_BgVV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-9" value="短信" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vg5Hk9WErmP5OCa_BgVV-7">
+        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-9" value="B2： 短信" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vg5Hk9WErmP5OCa_BgVV-7">
           <mxGeometry x="0.2835" y="-2" relative="1" as="geometry">
             <mxPoint x="-27" as="offset" />
           </mxGeometry>
@@ -1802,7 +1798,7 @@
         <mxCell id="Vg5Hk9WErmP5OCa_BgVV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vg5Hk9WErmP5OCa_BgVV-6" target="Vg5Hk9WErmP5OCa_BgVV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-10" value="导入导出日志" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vg5Hk9WErmP5OCa_BgVV-8">
+        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-10" value="A6： 导入导出日志" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vg5Hk9WErmP5OCa_BgVV-8">
           <mxGeometry x="0.1582" y="-1" relative="1" as="geometry">
             <mxPoint x="18" as="offset" />
           </mxGeometry>
@@ -1812,6 +1808,19 @@
             <mxGeometry x="470" y="760" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.919;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vg5Hk9WErmP5OCa_BgVV-11" target="Vg5Hk9WErmP5OCa_BgVV-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="700" />
+              <mxPoint x="515" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-49" value="B2： 短信发送状态回调" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vg5Hk9WErmP5OCa_BgVV-48">
+          <mxGeometry x="-0.1939" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <object placeholders="1" c4Name="Q侧服务" c4Type="service层" c4Description="Description of external software system." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="Vg5Hk9WErmP5OCa_BgVV-11">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="930" y="760" width="240" height="120" as="geometry" />
@@ -1831,7 +1840,7 @@
             <mxPoint x="39" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="C侧服务" c4Type="service层" c4Description="Description of external software system." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="Vg5Hk9WErmP5OCa_BgVV-12">
+        <object placeholders="1" c4Name="C侧中台底层服务" c4Type="多个 service层" c4Description="Description of external software system." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="Vg5Hk9WErmP5OCa_BgVV-12">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="-180" y="560" width="240" height="120" as="geometry" />
           </mxCell>
@@ -1839,17 +1848,17 @@
         <mxCell id="Vg5Hk9WErmP5OCa_BgVV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vg5Hk9WErmP5OCa_BgVV-28" target="Vg5Hk9WErmP5OCa_BgVV-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="760" y="420" />
-              <mxPoint x="760" y="420" />
+              <mxPoint x="730" y="430" />
+              <mxPoint x="730" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-31" value="导入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vg5Hk9WErmP5OCa_BgVV-29">
+        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-31" value="B6：导入&lt;br&gt;B3：图片上传" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vg5Hk9WErmP5OCa_BgVV-29">
           <mxGeometry x="-0.7037" relative="1" as="geometry">
-            <mxPoint y="27" as="offset" />
+            <mxPoint y="17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="工作台服务" c4Type="service层" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="Vg5Hk9WErmP5OCa_BgVV-28">
+        <object placeholders="1" c4Name="工作台" c4Type="前端页面" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="Vg5Hk9WErmP5OCa_BgVV-28">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="640" y="240" width="240" height="120" as="geometry" />
           </mxCell>
@@ -1862,14 +1871,67 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-37" value="导出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vg5Hk9WErmP5OCa_BgVV-34">
-          <mxGeometry x="-0.2417" y="-1" relative="1" as="geometry">
+        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-47" value="A6： 导出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vg5Hk9WErmP5OCa_BgVV-34">
+          <mxGeometry x="-0.2984" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="工作台服务服务" c4Type="rest 层" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="Vg5Hk9WErmP5OCa_BgVV-33">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="960" y="450" width="240" height="120" as="geometry" />
+            <mxGeometry x="1001" y="440" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vg5Hk9WErmP5OCa_BgVV-38" target="Vg5Hk9WErmP5OCa_BgVV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-40" value="B2：发送短信" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vg5Hk9WErmP5OCa_BgVV-39">
+          <mxGeometry x="0.2667" y="-2" relative="1" as="geometry">
+            <mxPoint x="71" y="-68" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="工作台服务" c4Type="较多应用" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="Vg5Hk9WErmP5OCa_BgVV-38">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="380" y="240" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vg5Hk9WErmP5OCa_BgVV-41" target="Vg5Hk9WErmP5OCa_BgVV-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="460" />
+              <mxPoint x="354" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-45" value="B2 发送短信" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vg5Hk9WErmP5OCa_BgVV-44">
+          <mxGeometry x="-0.9257" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="订单服务" c4Type="用户短信收口" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="Vg5Hk9WErmP5OCa_BgVV-41">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="120" y="240" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-46" value="A5：OCR识别&lt;br&gt;A6： 导出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="820" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vg5Hk9WErmP5OCa_BgVV-51" target="Vg5Hk9WErmP5OCa_BgVV-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-30" y="430" />
+              <mxPoint x="220" y="430" />
+              <mxPoint x="220" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vg5Hk9WErmP5OCa_BgVV-53" value="A1：翻译查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vg5Hk9WErmP5OCa_BgVV-52">
+          <mxGeometry x="-0.608" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="地理服务" c4Type="service" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="Vg5Hk9WErmP5OCa_BgVV-51">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="-150" y="240" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
       </root>
