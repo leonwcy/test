@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T13:49:09.195Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="N6tmKJOGakHMsqA9QoY0" version="19.0.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-06-08T13:50:52.487Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="NvX9ppXlfU7WRzWSqNk3" version="19.0.1" type="github" pages="6">
   <diagram id="ULr9he8bzYKg36-cf972" name="售卖">
     <mxGraphModel dx="2122" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -727,7 +727,7 @@
         <mxCell id="nl_AmJ2hQoC4tOm1L9PR-12" value="是否需要&lt;br&gt;熔断降级" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="410" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nl_AmJ2hQoC4tOm1L9PR-14" value="做好监控，主接口返回正确的异常码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nl_AmJ2hQoC4tOm1L9PR-14" value="做好监控，主接口返回正确的错误码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nl_AmJ2hQoC4tOm1L9PR-17" value="使用降级处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
