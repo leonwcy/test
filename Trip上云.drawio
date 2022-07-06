@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T14:02:54.060Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="qae2dyh1DUVzixIzPEVC" version="20.0.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-06T06:24:51.782Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Ro3XYxueLLR-D66r1xdT" version="20.0.1" type="github" pages="6">
   <diagram name="Trip 上云" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="2762" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -845,7 +845,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mPcFnPos_aN4ku8m6_2J" name="POI">
-    <mxGraphModel dx="2489" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2782" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1694,6 +1694,75 @@
             <mxGeometry x="1950" y="3850" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-1" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4135" y="4040" width="1005" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-5" value="业务接入层" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4160" y="3960" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-6" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4135" y="4190" width="1005" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-8" value="POI 业务层" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4160" y="4110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-9" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4130" y="4340" width="1010" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-11" value="POI 中台" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4155" y="4260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-12" value="POI 依赖方" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4155" y="4390" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;酒店数据&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4365" y="4380" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;百度 POI&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4549" y="4380" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;谷歌 POI&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4740" y="4380" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;GEO 基础数据&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4365" y="4470" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;携程OI&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4549" y="4470" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;地址纠偏&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4740" y="4250" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;POI 携程&lt;br&gt;城市映射&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4549" y="4250" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;POI DB&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4740" y="4470" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;POI 排序，去重，聚合&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4365" y="4250" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;用车业务&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4370" y="3860" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;租车业务&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4560" y="3860" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;机票合销&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4370" y="3960" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-27" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;商旅业务&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4560" y="3960" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;POI 唯一id&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4920" y="4250" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-29" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;POI 排序&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4365" y="4090" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F42PWWH-z5rFnyHu5y0G-30" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;POI 过滤&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4550" y="4090" width="145" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
