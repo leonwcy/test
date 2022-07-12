@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T11:31:29.096Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="mgXL_816cCi0rMj1imGa" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-12T11:31:50.242Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="V3KJwtWK6fP3JimcqN2V" version="20.0.4" type="github" pages="2">
   <diagram id="3DjgKK16Rs0-57WY5mal" name="售卖图">
     <mxGraphModel dx="2012" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,13 +23,13 @@
           <mxGeometry x="125" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JNgp0KE1t10tXG73kdR9-14" value="100006849&lt;br&gt;地理位置" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GUgka_e3T6BpAiPgidhM-2" value="100025330&lt;br&gt;运力系统" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GUgka_e3T6BpAiPgidhM-3" value="100033604&lt;br&gt;库存系统" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GUgka_e3T6BpAiPgidhM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JNgp0KE1t10tXG73kdR9-2" target="GUgka_e3T6BpAiPgidhM-2">
           <mxGeometry relative="1" as="geometry">
@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GUgka_e3T6BpAiPgidhM-13" value="中间件" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="350" width="340" height="200" as="geometry" />
+          <mxGeometry x="-60" y="400" width="340" height="200" as="geometry" />
         </mxCell>
         <mxCell id="GUgka_e3T6BpAiPgidhM-12" value="商品ES" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="GUgka_e3T6BpAiPgidhM-13">
           <mxGeometry x="40" y="60" width="60" height="80" as="geometry" />
