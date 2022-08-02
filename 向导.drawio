@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T07:11:33.927Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="KZg342sYkI1LQldGIevm" version="20.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-02T07:12:03.915Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="wrOzTyibGw-cE354NNNB" version="20.2.2" type="github" pages="2">
   <diagram id="vf1SmXCAN3oc0I7kgqa6" name="向导容器图">
     <mxGraphModel dx="1368" dy="1385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -394,11 +394,16 @@
           </mxCell>
         </object>
         <mxCell id="e9M98Qfh6EJku2T9XBrh-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="1" source="e9M98Qfh6EJku2T9XBrh-52" target="e9M98Qfh6EJku2T9XBrh-46">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4030" y="1136" />
+              <mxPoint x="4030" y="1136" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="e9M98Qfh6EJku2T9XBrh-54" value="入驻" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="e9M98Qfh6EJku2T9XBrh-53">
+        <mxCell id="e9M98Qfh6EJku2T9XBrh-54" value="&amp;nbsp;入驻审核通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="e9M98Qfh6EJku2T9XBrh-53">
           <mxGeometry x="0.3122" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="29" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e9M98Qfh6EJku2T9XBrh-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF0000;" edge="1" parent="1" source="e9M98Qfh6EJku2T9XBrh-52" target="e9M98Qfh6EJku2T9XBrh-55">
