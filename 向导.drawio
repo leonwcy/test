@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T08:53:53.314Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="ubuD1SFpbUDTjEc5q83r" version="20.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-08-22T09:23:40.908Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="jrfsFcEoHOgM7IwNIFTA" version="20.2.3" type="github" pages="4">
   <diagram id="vf1SmXCAN3oc0I7kgqa6" name="向导容器图">
     <mxGraphModel dx="-232" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -563,7 +563,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="同步流程" id="VspJAKAj1OK4_T3elFzN">
-    <mxGraphModel dx="716" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="377" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="x-pTX9JRFWX3ikGhAZka-0" />
         <mxCell id="x-pTX9JRFWX3ikGhAZka-1" parent="x-pTX9JRFWX3ikGhAZka-0" />
@@ -630,7 +630,7 @@
         </mxCell>
         <mxCell id="aI-8wu7EIYuoCbQiQyFy-6" value="1. 创建向导&lt;br&gt;2. 更新向导信息&lt;br&gt;3. 更新向导状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="x-pTX9JRFWX3ikGhAZka-16" vertex="1" connectable="0">
           <mxGeometry x="-0.4159" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="-20" as="offset" />
+            <mxPoint x="1" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x-pTX9JRFWX3ikGhAZka-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#000000;" parent="x-pTX9JRFWX3ikGhAZka-1" source="x-pTX9JRFWX3ikGhAZka-20" target="x-pTX9JRFWX3ikGhAZka-42" edge="1">
@@ -688,16 +688,24 @@
         <mxCell id="DzJkCCDdVtBD5MfeYgPF-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="x-pTX9JRFWX3ikGhAZka-1" source="x-pTX9JRFWX3ikGhAZka-47" target="x-pTX9JRFWX3ikGhAZka-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xyFt9KeundDomZeV_dPs-3" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;异常job重试+ 邮件人工介入&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="DzJkCCDdVtBD5MfeYgPF-0">
+          <mxGeometry x="0.37" y="2" relative="1" as="geometry">
+            <mxPoint x="85" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <object placeholders="1" c4Name="数据同步服务" c4Type="100036176" c4Description="同步数据到社会化" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="x-pTX9JRFWX3ikGhAZka-47">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="x-pTX9JRFWX3ikGhAZka-1" vertex="1">
-            <mxGeometry x="2950" y="1503.53" width="240" height="120" as="geometry" />
+            <mxGeometry x="3308" y="1503.53" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="社会化系统" c4Type="" c4Application="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="x-pTX9JRFWX3ikGhAZka-51">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="x-pTX9JRFWX3ikGhAZka-1" vertex="1">
-            <mxGeometry x="2460" y="1290" width="339" height="380" as="geometry" />
+            <mxGeometry x="2460" y="1290" width="339" height="590" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="xyFt9KeundDomZeV_dPs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="x-pTX9JRFWX3ikGhAZka-1" source="x-pTX9JRFWX3ikGhAZka-56" target="xyFt9KeundDomZeV_dPs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <object placeholders="1" c4Name="社会化平台" c4Type="100002591" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="x-pTX9JRFWX3ikGhAZka-56">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="x-pTX9JRFWX3ikGhAZka-1" vertex="1">
             <mxGeometry x="2510" y="1503.53" width="240" height="120" as="geometry" />
@@ -755,11 +763,19 @@
             <mxGeometry x="2140" y="1503.53" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="xyFt9KeundDomZeV_dPs-2" value="&lt;h1&gt;问题点：&amp;nbsp;&lt;/h1&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. 业务点是根据数据库消息触发&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="x-pTX9JRFWX3ikGhAZka-1">
+          <mxGeometry x="2780" y="1950" width="380" height="120" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Type="pkgadvisordb" c4Container="Container " c4Technology="MySQL" c4Description="" label="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#E6E6E6&quot; style=&quot;font-size: 20px;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;/b&gt;" remark="社会化数据库" id="xyFt9KeundDomZeV_dPs-4">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=20;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="x-pTX9JRFWX3ikGhAZka-1">
+            <mxGeometry x="2510" y="1694" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="6hfH_-JZLqbJIW6MapLq" name="具体流程">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
