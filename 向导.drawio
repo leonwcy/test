@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T01:19:31.336Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="_rGmlAG202jO7Jz-b2Xy" version="20.2.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-08-23T01:54:38.464Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="SyxRagGjLrg71EO336IC" version="20.2.6" type="github" pages="4">
   <diagram id="vf1SmXCAN3oc0I7kgqa6" name="向导容器图">
-    <mxGraphModel dx="-232" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="22" dy="3274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,6 +215,54 @@
         <object placeholders="1" c4Type="actproductdb" c4Container="Container " c4Technology="MySQL" c4Description="社会化商品库" label="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#E6E6E6&quot; style=&quot;font-size: 20px;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;/b&gt;" remark="旧向导数据" id="sEEVSyeKvRTLSPbJhOf8-43">
           <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=20;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="sEEVSyeKvRTLSPbJhOf8-39" vertex="1">
             <mxGeometry x="105" y="205" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="DkAwxRcYgpo1yhAqXp1i-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.837;entryY=1.047;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;fontColor=#FF3333;" edge="1" parent="1" source="DkAwxRcYgpo1yhAqXp1i-1" target="DkAwxRcYgpo1yhAqXp1i-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2730" y="-1120" />
+              <mxPoint x="2391" y="-1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DkAwxRcYgpo1yhAqXp1i-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#FF3333;" edge="1" parent="1" source="DkAwxRcYgpo1yhAqXp1i-1" target="DkAwxRcYgpo1yhAqXp1i-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2780" y="-1169" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2790" y="-1140" />
+              <mxPoint x="2790" y="-1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="向导供应链" c4Type="用车BU" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="DkAwxRcYgpo1yhAqXp1i-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontSize=18;" vertex="1" parent="1">
+            <mxGeometry x="2610" y="-1080" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="DkAwxRcYgpo1yhAqXp1i-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#FF3333;" edge="1" parent="1" source="DkAwxRcYgpo1yhAqXp1i-2" target="DkAwxRcYgpo1yhAqXp1i-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="社会化中台系统" c4Type="度假中台化" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="DkAwxRcYgpo1yhAqXp1i-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontSize=18;" vertex="1" parent="1">
+            <mxGeometry x="2190" y="-1080" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="DkAwxRcYgpo1yhAqXp1i-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#FF3333;" edge="1" parent="1" source="DkAwxRcYgpo1yhAqXp1i-3" target="DkAwxRcYgpo1yhAqXp1i-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="向导C端Rest" c4Type="玩乐" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="DkAwxRcYgpo1yhAqXp1i-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontSize=18;" vertex="1" parent="1">
+            <mxGeometry x="2190" y="-1289" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="玩乐分销系统" c4Type="度假服务中台" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="DkAwxRcYgpo1yhAqXp1i-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontSize=18;" vertex="1" parent="1">
+            <mxGeometry x="1870" y="-1289" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="向导Q侧服务" c4Type="用车BU" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="DkAwxRcYgpo1yhAqXp1i-11">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontSize=18;" vertex="1" parent="1">
+            <mxGeometry x="2610" y="-1289" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
       </root>
@@ -563,7 +611,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="同步流程" id="VspJAKAj1OK4_T3elFzN">
-    <mxGraphModel dx="377" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="382" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="x-pTX9JRFWX3ikGhAZka-0" />
         <mxCell id="x-pTX9JRFWX3ikGhAZka-1" parent="x-pTX9JRFWX3ikGhAZka-0" />
@@ -582,11 +630,6 @@
               <mxPoint x="3560" y="1130" />
               <mxPoint x="3560" y="1130" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x-pTX9JRFWX3ikGhAZka-9" value="向导查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#000000;" parent="x-pTX9JRFWX3ikGhAZka-8" vertex="1" connectable="0">
-          <mxGeometry x="0.3896" y="-1" relative="1" as="geometry">
-            <mxPoint x="31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w_mObqgdP6rZqERFC7Pm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=15;" parent="x-pTX9JRFWX3ikGhAZka-1" source="x-pTX9JRFWX3ikGhAZka-10" target="w_mObqgdP6rZqERFC7Pm-0" edge="1">
@@ -648,11 +691,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="x-pTX9JRFWX3ikGhAZka-19" value="映射查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#000000;" parent="x-pTX9JRFWX3ikGhAZka-18" vertex="1" connectable="0">
-          <mxGeometry x="0.2746" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <object placeholders="1" c4Type="dcsguidesupplydb" c4Container="Container " c4Technology="MySQL" c4Description="向导核心库" label="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#E6E6E6&quot; style=&quot;font-size: 20px;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;/b&gt;" remark="保存大向导和小向导的映射信息" id="x-pTX9JRFWX3ikGhAZka-20">
           <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=20;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="x-pTX9JRFWX3ikGhAZka-1" vertex="1">
             <mxGeometry x="3330" y="1263.53" width="240" height="120" as="geometry" />
@@ -683,11 +721,6 @@
             <Array as="points">
               <mxPoint x="2760" y="1170" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x-pTX9JRFWX3ikGhAZka-36" value="跟据大向导，小向导查询关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="x-pTX9JRFWX3ikGhAZka-35" vertex="1" connectable="0">
-          <mxGeometry x="-0.6491" relative="1" as="geometry">
-            <mxPoint x="-61" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x-pTX9JRFWX3ikGhAZka-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontColor=#000000;" parent="x-pTX9JRFWX3ikGhAZka-1" source="x-pTX9JRFWX3ikGhAZka-42" target="x-pTX9JRFWX3ikGhAZka-65" edge="1">
@@ -779,7 +812,7 @@
             <mxGeometry x="2200" y="1300" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="xyFt9KeundDomZeV_dPs-2" value="&lt;h1&gt;问题点：&amp;nbsp;&lt;/h1&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. 业务变更是根据数据库消息触发，具体&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;处理逻辑是我们根据消息字段来进行判断得&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;2. 数据源分散，有2个核心域，不够内聚，迭代流程长&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;3. 司机分链路造成循环依赖&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="x-pTX9JRFWX3ikGhAZka-1" vertex="1">
+        <mxCell id="xyFt9KeundDomZeV_dPs-2" value="&lt;h1&gt;问题点：&amp;nbsp;&lt;/h1&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. 业务变更是根据数据库消息触发，具体&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;处理逻辑是我们根据消息字段来进行判断得&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;2. 数据源分散，有2个核心域，不够内聚，&lt;font color=&quot;#ff3333&quot;&gt;迭代流程长&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;3. 司机分链路造成循环依赖&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="x-pTX9JRFWX3ikGhAZka-1" vertex="1">
           <mxGeometry x="3342" y="1740" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="w_mObqgdP6rZqERFC7Pm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;shape=flexArrow;" parent="x-pTX9JRFWX3ikGhAZka-1" source="xyFt9KeundDomZeV_dPs-4" target="w_mObqgdP6rZqERFC7Pm-3" edge="1">
