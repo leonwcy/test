@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T09:36:28.982Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="4-WuOHnyF8CYaHlbLHU8" version="20.2.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-08-25T14:33:21.266Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="TLig2WaOZuFjGDnynitb" version="20.2.7" type="github" pages="6">
   <diagram name="Trip 上云" id="5d7acffa-a066-3a61-03fe-96351882024d">
-    <mxGraphModel dx="2522" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="5682" dy="2493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1568,7 +1568,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mPcFnPos_aN4ku8m6_2J" name="POI">
-    <mxGraphModel dx="2297" dy="1238" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2862" dy="1522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2804,7 +2804,7 @@
             <mxGeometry x="3652" y="2378" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aZPrxWEZ6OkBdog4EXe5-2" target="hpNYQxw-9PfZgTm_1oAl-45">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aZPrxWEZ6OkBdog4EXe5-2" target="hpNYQxw-9PfZgTm_1oAl-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2876" y="2338" />
@@ -2813,41 +2813,41 @@
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="GEO 中台" c4Type="中台服务" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="aZPrxWEZ6OkBdog4EXe5-2">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="2755" y="2386" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aZPrxWEZ6OkBdog4EXe5-5" target="aZPrxWEZ6OkBdog4EXe5-7">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aZPrxWEZ6OkBdog4EXe5-5" target="aZPrxWEZ6OkBdog4EXe5-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-5" value="北京大兴国际机场&lt;br&gt;&lt;b&gt;基础数据&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-5" value="北京大兴国际机场&lt;br&gt;&lt;b&gt;基础数据&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="2641" y="1179" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aZPrxWEZ6OkBdog4EXe5-6" target="aZPrxWEZ6OkBdog4EXe5-8">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aZPrxWEZ6OkBdog4EXe5-6" target="aZPrxWEZ6OkBdog4EXe5-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-6" value="北京大兴国际机场&lt;br&gt;&lt;b&gt;高德&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-6" value="北京大兴国际机场&lt;br&gt;&lt;b&gt;高德&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="3660" y="1179" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="aZPrxWEZ6OkBdog4EXe5-7" target="aZPrxWEZ6OkBdog4EXe5-5">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="aZPrxWEZ6OkBdog4EXe5-7" target="aZPrxWEZ6OkBdog4EXe5-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aZPrxWEZ6OkBdog4EXe5-7" target="aZPrxWEZ6OkBdog4EXe5-8">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aZPrxWEZ6OkBdog4EXe5-7" target="aZPrxWEZ6OkBdog4EXe5-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-7" value="北京大兴国际机场&lt;br&gt;&lt;b&gt;百度&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-7" value="北京大兴国际机场&lt;br&gt;&lt;b&gt;百度&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="3106" y="1179" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aZPrxWEZ6OkBdog4EXe5-8" target="aZPrxWEZ6OkBdog4EXe5-7">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aZPrxWEZ6OkBdog4EXe5-8" target="aZPrxWEZ6OkBdog4EXe5-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aZPrxWEZ6OkBdog4EXe5-8" target="aZPrxWEZ6OkBdog4EXe5-6">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aZPrxWEZ6OkBdog4EXe5-8" target="aZPrxWEZ6OkBdog4EXe5-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-8" value="北京大兴国际机场&lt;br&gt;&lt;b&gt;谷歌&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-8" value="北京大兴国际机场&lt;br&gt;&lt;b&gt;谷歌&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="3387" y="1179" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aZPrxWEZ6OkBdog4EXe5-9" target="aZPrxWEZ6OkBdog4EXe5-7">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aZPrxWEZ6OkBdog4EXe5-9" target="aZPrxWEZ6OkBdog4EXe5-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3055" y="1283" />
@@ -2855,31 +2855,36 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aZPrxWEZ6OkBdog4EXe5-9" target="aZPrxWEZ6OkBdog4EXe5-18">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aZPrxWEZ6OkBdog4EXe5-9" target="aZPrxWEZ6OkBdog4EXe5-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-9" value="北京大兴国际机场&lt;br&gt;T1 航站楼&lt;br&gt;&lt;br&gt;百度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-9" value="北京大兴国际机场&lt;br&gt;T1 航站楼&lt;br&gt;&lt;br&gt;百度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="2995" y="1319" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aZPrxWEZ6OkBdog4EXe5-10" target="aZPrxWEZ6OkBdog4EXe5-7">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aZPrxWEZ6OkBdog4EXe5-10" target="aZPrxWEZ6OkBdog4EXe5-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-10" value="北京大兴国际机场&lt;br&gt;T2 航站楼&lt;br&gt;&lt;br&gt;百度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-10" value="北京大兴国际机场&lt;br&gt;T2 航站楼&lt;br&gt;&lt;br&gt;百度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="3221" y="1327" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aZPrxWEZ6OkBdog4EXe5-13" target="aZPrxWEZ6OkBdog4EXe5-9">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="aZPrxWEZ6OkBdog4EXe5-13" target="aZPrxWEZ6OkBdog4EXe5-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-13" value="北京大兴国际机场&lt;br&gt;T1 航站楼&lt;br&gt;停车场&lt;br&gt;&lt;br&gt;百度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2861" y="1437" width="146" height="79" as="geometry" />
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-13" value="北京大兴国际机场&lt;br&gt;T1 航站楼&lt;br&gt;停车场&lt;br&gt;&lt;br&gt;百度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2650" y="1437" width="146" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aZPrxWEZ6OkBdog4EXe5-14" target="aZPrxWEZ6OkBdog4EXe5-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="aZPrxWEZ6OkBdog4EXe5-14" target="aZPrxWEZ6OkBdog4EXe5-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3015" y="1408" />
+              <mxPoint x="2809" y="1408" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-14" value="北京大兴国际机场&lt;br&gt;T1 航站楼&lt;br&gt;入口&lt;br&gt;&lt;br&gt;百度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="3089" y="1437" width="146" height="79" as="geometry" />
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-14" value="北京大兴国际机场&lt;br&gt;T1 航站楼&lt;br&gt;入口&lt;br&gt;&lt;br&gt;百度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2948" y="1439" width="146" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aZPrxWEZ6OkBdog4EXe5-17" target="aZPrxWEZ6OkBdog4EXe5-5">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aZPrxWEZ6OkBdog4EXe5-17" target="aZPrxWEZ6OkBdog4EXe5-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2585" y="1276" />
@@ -2887,10 +2892,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-17" value="北京大兴国际机场&lt;br&gt;T2 航站楼&lt;br&gt;&lt;br&gt;基础数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-17" value="北京大兴国际机场&lt;br&gt;T2 航站楼&lt;br&gt;&lt;br&gt;基础数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="2516" y="1317" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aZPrxWEZ6OkBdog4EXe5-18" target="aZPrxWEZ6OkBdog4EXe5-5">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aZPrxWEZ6OkBdog4EXe5-18" target="aZPrxWEZ6OkBdog4EXe5-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2827" y="1276" />
@@ -2898,14 +2903,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="aZPrxWEZ6OkBdog4EXe5-18" target="aZPrxWEZ6OkBdog4EXe5-9">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="aZPrxWEZ6OkBdog4EXe5-18" target="aZPrxWEZ6OkBdog4EXe5-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aZPrxWEZ6OkBdog4EXe5-18" value="北京大兴国际机场&lt;br&gt;T1 航站楼&lt;br&gt;&lt;br&gt;基础数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="aZPrxWEZ6OkBdog4EXe5-18" value="北京大兴国际机场&lt;br&gt;T1 航站楼&lt;br&gt;&lt;br&gt;基础数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="2749" y="1319" width="120" height="60" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="北京大兴国际机场" c4Type="SystemScopeBoundary" c4Application="poi 结构图" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="aZPrxWEZ6OkBdog4EXe5-29">
-          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="2439" y="1085" width="1394" height="490" as="geometry" />
           </mxCell>
         </object>
