@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T02:22:35.105Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Kwi0qAxVlck4Xyw-kG4Y" version="20.3.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-09-22T02:26:14.610Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="r_9xteEEE2DdaK7k8VXI" version="20.3.3" type="github" pages="6">
   <diagram name="Trip 上云" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="2522" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -527,7 +527,7 @@
         <mxCell id="dxqgFi0f6naj4hb1vSUr-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="dxqgFi0f6naj4hb1vSUr-6" target="dxqgFi0f6naj4hb1vSUr-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R8Fq8953DcH_eLZZ2WyI-1" value="上海IDC " style="swimlane;" vertex="1" parent="1">
+        <mxCell id="R8Fq8953DcH_eLZZ2WyI-1" value="上海IDC " style="swimlane;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="3350" y="520" width="450" height="610" as="geometry" />
         </mxCell>
         <mxCell id="R8Fq8953DcH_eLZZ2WyI-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;报价BFF&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="R8Fq8953DcH_eLZZ2WyI-1">
