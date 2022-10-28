@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T08:42:38.244Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="VksxdiPnW6hAWra5LlZD" version="20.5.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-10-28T08:48:26.576Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="7iqGvIK5MkdaPpJmdCL8" version="20.5.1" type="github" pages="6">
   <diagram name="Trip 上云" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="2831" dy="1089" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -715,8 +715,14 @@
         <mxCell id="MenLF-s6BnY5VImOonOr-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=15;" parent="MenLF-s6BnY5VImOonOr-1" source="MenLF-s6BnY5VImOonOr-3" target="MenLF-s6BnY5VImOonOr-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2LABZLgQYFA25-1Sf1qs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="MenLF-s6BnY5VImOonOr-1" source="2LABZLgQYFA25-1Sf1qs-3" target="2LABZLgQYFA25-1Sf1qs-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2LABZLgQYFA25-1Sf1qs-3" value="订单服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#DAE8FC;" vertex="1" parent="MenLF-s6BnY5VImOonOr-1">
           <mxGeometry x="259" y="199" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LABZLgQYFA25-1Sf1qs-12" value="订单db" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#DAE8FC;" vertex="1" parent="MenLF-s6BnY5VImOonOr-1">
+          <mxGeometry x="290" y="302" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MenLF-s6BnY5VImOonOr-17" value="AWS IDC " style="swimlane;align=left;fontSize=15;fontStyle=1;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="2780" y="2835" width="410" height="569" as="geometry" />
