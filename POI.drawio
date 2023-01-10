@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T06:44:53.781Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="DHBKIo_KIJj1mrX-AOTW" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-01-10T07:08:56.714Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Sh7roFL_0rUh8NZdK_RD" version="20.7.4" type="github" pages="3">
   <diagram id="xxfAbRhhRLg27VgUF0_M" name="容器图">
     <mxGraphModel dx="-2701" dy="-405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -285,11 +285,61 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t5S5B8A3b8xG88kBTEdM-6" target="t5S5B8A3b8xG88kBTEdM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t5S5B8A3b8xG88kBTEdM-6" value="是否含敏感词，配置在Qconfig里面" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="470" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="t5S5B8A3b8xG88kBTEdM-11" value="退出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t5S5B8A3b8xG88kBTEdM-12" target="t5S5B8A3b8xG88kBTEdM-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="800" />
+              <mxPoint x="100" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t5S5B8A3b8xG88kBTEdM-12" target="t5S5B8A3b8xG88kBTEdM-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t5S5B8A3b8xG88kBTEdM-12" target="t5S5B8A3b8xG88kBTEdM-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="800" />
+              <mxPoint x="590" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t5S5B8A3b8xG88kBTEdM-12" target="t5S5B8A3b8xG88kBTEdM-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="800" />
+              <mxPoint x="840" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-23" value="酒店一定会进行搜索" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t5S5B8A3b8xG88kBTEdM-22">
+          <mxGeometry x="0.5621" relative="1" as="geometry">
+            <mxPoint x="-33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-12" value="1. 根据条件决定使用图商：&amp;nbsp;&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="650" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-14" value="谷歌" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-16" value="高德" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-17" value="百度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-18" value="酒店" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
