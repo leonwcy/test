@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T07:48:44.594Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="G2J8BdWQFa9bs_8Hk8Ro" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-01-10T07:51:12.357Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="7XbYpIh0yXYeGy60wzqa" version="20.7.4" type="github" pages="3">
   <diagram id="xxfAbRhhRLg27VgUF0_M" name="容器图">
     <mxGraphModel dx="-2701" dy="-405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -357,7 +357,7 @@
           <mxGeometry x="530" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t5S5B8A3b8xG88kBTEdM-18" value="酒店" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t5S5B8A3b8xG88kBTEdM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t5S5B8A3b8xG88kBTEdM-24" target="t5S5B8A3b8xG88kBTEdM-12">
           <mxGeometry relative="1" as="geometry" />
@@ -377,14 +377,33 @@
         <mxCell id="t5S5B8A3b8xG88kBTEdM-31" value="谷歌地址详情查询：&amp;nbsp;details&amp;nbsp;&amp;nbsp;&lt;br&gt;https://developers.google.com/maps/documentation/places/web-service/details&lt;br&gt;缓存key：&amp;nbsp;&lt;span style=&quot;color: rgb(0, 1, 2); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, emoji-one; font-size: 14px; text-align: left; background-color: rgb(214, 233, 255);&quot;&gt;[ChIJkV6AcfGifDURCeC9YTer0Q0:GOOGLE:zh-CN]&amp;nbsp;&lt;br&gt;&lt;br&gt;为了省钱，改成了GEOCODING&lt;br&gt;&lt;br&gt;1.根据缓存key进行缓存查询， 如果缓存没有，查询谷歌接口&amp;nbsp;&lt;br&gt;2. 根据id ，soucetype ， local 去相应图商请求，拿到地址详情，经纬度，（地址名称是拿上一个接口取到的名称接口）&lt;br&gt;&lt;br&gt;遍历查询&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-580" y="1240" width="630" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="t5S5B8A3b8xG88kBTEdM-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t5S5B8A3b8xG88kBTEdM-34" target="t5S5B8A3b8xG88kBTEdM-37">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t5S5B8A3b8xG88kBTEdM-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="2720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="t5S5B8A3b8xG88kBTEdM-34" value="POI 去重逻辑：&amp;nbsp;&lt;br&gt;&lt;br&gt;1. 根据地址名称，地址详情， 相似度大于50%&lt;br&gt;2. 地址经纬度，相差小于 1000米 以内&lt;br&gt;3. 随机去重谷歌和酒店数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="2400" width="640" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="t5S5B8A3b8xG88kBTEdM-37" value="POI 聚合排序 ：&amp;nbsp;&lt;br&gt;&lt;br&gt;1.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="2720" width="640" height="180" as="geometry" />
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t5S5B8A3b8xG88kBTEdM-39" target="t5S5B8A3b8xG88kBTEdM-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-45" value="海外" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t5S5B8A3b8xG88kBTEdM-43">
+          <mxGeometry x="0.32" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t5S5B8A3b8xG88kBTEdM-39" target="t5S5B8A3b8xG88kBTEdM-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-39" value="国内，海外聚合逻辑" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="2720" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
