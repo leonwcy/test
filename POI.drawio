@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T07:08:56.714Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Sh7roFL_0rUh8NZdK_RD" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-01-10T07:13:55.440Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="k6VIuTjwkfe8d7KrNl7L" version="20.7.4" type="github" pages="3">
   <diagram id="xxfAbRhhRLg27VgUF0_M" name="容器图">
     <mxGraphModel dx="-2701" dy="-405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -326,7 +326,7 @@
             <mxPoint x="-33" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t5S5B8A3b8xG88kBTEdM-12" value="1. 根据条件决定使用图商：&amp;nbsp;&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-12" value="1. 根据条件决定使用图商：&lt;br&gt;境内走百度&lt;br&gt;境外走谷歌&lt;br&gt;租车规则&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="295" y="650" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="t5S5B8A3b8xG88kBTEdM-14" value="谷歌" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -340,6 +340,12 @@
         </mxCell>
         <mxCell id="t5S5B8A3b8xG88kBTEdM-18" value="酒店" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t5S5B8A3b8xG88kBTEdM-24" target="t5S5B8A3b8xG88kBTEdM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-24" value="Form 平台配置规则&lt;br&gt;https://devhub.package.ctripcorp.com/form/biz?id=9qoqgopt6oqi2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="675" width="370" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
