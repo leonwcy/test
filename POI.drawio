@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T07:41:53.113Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Ob6zVWzSIiic_jsVgbEF" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-01-10T07:42:45.336Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="R8ZZltOoacY3wVH5VabN" version="20.7.4" type="github" pages="3">
   <diagram id="xxfAbRhhRLg27VgUF0_M" name="容器图">
     <mxGraphModel dx="-2701" dy="-405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -380,7 +380,7 @@
         <mxCell id="t5S5B8A3b8xG88kBTEdM-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t5S5B8A3b8xG88kBTEdM-34" target="t5S5B8A3b8xG88kBTEdM-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t5S5B8A3b8xG88kBTEdM-34" value="POI 去重逻辑：&amp;nbsp;&lt;br&gt;&lt;br&gt;1. 根据地址名称，地址详情， 相似度大于50%&lt;br&gt;2. 地址经纬度，相差小于 1000米 以内" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-34" value="POI 去重逻辑：&amp;nbsp;&lt;br&gt;&lt;br&gt;1. 根据地址名称，地址详情， 相似度大于50%&lt;br&gt;2. 地址经纬度，相差小于 1000米 以内&lt;br&gt;3. 随机去重谷歌和酒店数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="2400" width="640" height="210" as="geometry" />
         </mxCell>
         <mxCell id="t5S5B8A3b8xG88kBTEdM-37" value="POI 聚合排序 ：&amp;nbsp;&lt;br&gt;&lt;br&gt;1.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
