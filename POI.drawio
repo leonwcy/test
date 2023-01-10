@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T07:55:40.693Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="XG5iyQlrV4HLsXiJhHGF" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-01-10T07:56:44.328Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="cgUjW5hAWgHsAbAd95KC" version="20.7.4" type="github" pages="3">
   <diagram id="xxfAbRhhRLg27VgUF0_M" name="容器图">
     <mxGraphModel dx="-2701" dy="-405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -407,7 +407,7 @@
         <mxCell id="t5S5B8A3b8xG88kBTEdM-41" value="国内酒店，和图商POI的聚合数目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="2960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t5S5B8A3b8xG88kBTEdM-42" value="国内酒店，和图商POI的聚合数目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t5S5B8A3b8xG88kBTEdM-42" value="国内按Input搜索的相关度聚合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="2960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
