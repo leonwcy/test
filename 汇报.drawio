@@ -1,34 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T01:14:58.137Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="20.8.5" etag="oONddu_m6R84Xc7rJo0t" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T01:17:08.774Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="20.8.5" etag="5MMrsebXqGKe84NYfH-8" type="github">
   <diagram id="cGJvjMeIr9tF7bex6Jn9" name="第 1 页">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HWMCd8eheu36kaZq1QKs-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="310" y="60" width="415" height="150" as="geometry" />
+          <mxGeometry x="310" y="80" width="415" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="HWMCd8eheu36kaZq1QKs-8" value="轨迹管理" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="HWMCd8eheu36kaZq1QKs-8" value="&lt;font color=&quot;#ffffff&quot;&gt;轨迹管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="360" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HWMCd8eheu36kaZq1QKs-9" value="位置服务" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="HWMCd8eheu36kaZq1QKs-9" value="&lt;font color=&quot;#ffffff&quot;&gt;位置服务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="560" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HWMCd8eheu36kaZq1QKs-10" value="存储服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="487.5" y="60" width="60" height="30" as="geometry" />
+          <mxGeometry x="487.5" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HWMCd8eheu36kaZq1QKs-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="800" y="60" width="520" height="150" as="geometry" />
+          <mxGeometry x="800" y="80" width="520" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="HWMCd8eheu36kaZq1QKs-12" value="轨迹纠偏" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="HWMCd8eheu36kaZq1QKs-12" value="&lt;font color=&quot;#ffffff&quot;&gt;轨迹纠偏&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="850" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HWMCd8eheu36kaZq1QKs-13" value="车辆监控" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="HWMCd8eheu36kaZq1QKs-13" value="&lt;font color=&quot;#ffffff&quot;&gt;车辆监控&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="1010" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HWMCd8eheu36kaZq1QKs-14" value="计算引擎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="60" width="60" height="30" as="geometry" />
+        <mxCell id="HWMCd8eheu36kaZq1QKs-14" value="计算引擎" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HWMCd8eheu36kaZq1QKs-15" value="高速费计算" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="HWMCd8eheu36kaZq1QKs-15" value="&lt;font color=&quot;#ffffff&quot;&gt;高速费计算&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="1170" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HWMCd8eheu36kaZq1QKs-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
