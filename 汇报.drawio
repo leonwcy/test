@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T01:29:18.861Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="20.8.5" etag="B7BQpcETn5O2MFtVQaGN" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T04:30:50.575Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="20.8.5" etag="feVqRfY82C3ooN__-vpx" type="github" pages="2">
   <diagram id="cGJvjMeIr9tF7bex6Jn9" name="第 1 页">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,7 +74,7 @@
         <mxCell id="HWMCd8eheu36kaZq1QKs-26" value="" style="shape=cross;whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="750" y="122.5" width="30" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="HWMCd8eheu36kaZq1QKs-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="HWMCd8eheu36kaZq1QKs-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.194;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HWMCd8eheu36kaZq1QKs-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="900" y="190" as="sourcePoint" />
             <mxPoint x="900" y="310" as="targetPoint" />
@@ -89,9 +89,9 @@
             <mxPoint x="-1" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HWMCd8eheu36kaZq1QKs-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.781;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="HWMCd8eheu36kaZq1QKs-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1219.9950000000001" y="189.55999999999992" as="sourcePoint" />
+            <mxPoint x="1222" y="184" as="sourcePoint" />
             <mxPoint x="1222" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -100,7 +100,7 @@
             <mxPoint y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HWMCd8eheu36kaZq1QKs-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.781;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="HWMCd8eheu36kaZq1QKs-36">
+        <mxCell id="HWMCd8eheu36kaZq1QKs-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.502;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HWMCd8eheu36kaZq1QKs-11" target="HWMCd8eheu36kaZq1QKs-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1059.155" y="189.5599999999999" as="sourcePoint" />
             <mxPoint x="1060.8499999999997" y="360.00000000000006" as="targetPoint" />
@@ -117,6 +117,45 @@
         <mxCell id="HWMCd8eheu36kaZq1QKs-36" value="&lt;font color=&quot;#005700&quot;&gt;&lt;b&gt;监控端&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="310" width="60" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JiCOESVSHYrMDFYXoBlY" name="第 2 页">
+    <mxGraphModel dx="1834" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lZecjmo3ejaV7VsfBB9L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#005700;" edge="1" parent="1" source="lZecjmo3ejaV7VsfBB9L-1" target="lZecjmo3ejaV7VsfBB9L-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="141" y="164" />
+              <mxPoint x="26" y="164" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lZecjmo3ejaV7VsfBB9L-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#005700;" edge="1" parent="1" source="lZecjmo3ejaV7VsfBB9L-1" target="lZecjmo3ejaV7VsfBB9L-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="204" y="164" />
+              <mxPoint x="318" y="164" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="用车鹰眼系统" c4Type="支撑域" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lZecjmo3ejaV7VsfBB9L-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shadow=0;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="49" y="216" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="用车地图系统" c4Type="核心域" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lZecjmo3ejaV7VsfBB9L-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shadow=0;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="-97" y="-4" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="租车地图业务" c4Type="支撑域" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lZecjmo3ejaV7VsfBB9L-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shadow=0;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="198" y="-4" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
