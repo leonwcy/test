@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T12:12:52.207Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="QGpPMrgV8KC9r1ZEHeeI" version="20.8.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-25T12:26:03.564Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Fim5wc-CunGEfciPK4FQ" version="20.8.5" type="github" pages="4">
   <diagram id="cGJvjMeIr9tF7bex6Jn9" name="第 1 页">
     <mxGraphModel dx="2074" dy="1124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -257,13 +257,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hwVSGAJqfh242_TL6ykI" name="第 4 页">
-    <mxGraphModel dx="2474" dy="1524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1830" dy="1175" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="D_BVTMMiLpnpp48l0w1A-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D_BVTMMiLpnpp48l0w1A-1" target="D_BVTMMiLpnpp48l0w1A-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="D_BVTMMiLpnpp48l0w1A-1" value="产品需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-341" y="-102" width="120" height="60" as="geometry" />
         </mxCell>
@@ -284,9 +281,6 @@
             <mxPoint x="-281.5" y="-18" as="sourcePoint" />
             <mxPoint x="-281.5" y="34" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="D_BVTMMiLpnpp48l0w1A-13" value="问题点&lt;br&gt;1. 产品和研发需求理解不一致" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-54" y="-112" width="222" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
