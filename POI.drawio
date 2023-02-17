@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T05:54:10.254Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="O9oeGsRI18BWylssfpYu" version="20.8.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-17T05:55:37.595Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="50sa5WBBiv4U3fUxzG2a" version="20.8.13" type="github" pages="3">
   <diagram id="xxfAbRhhRLg27VgUF0_M" name="容器图">
     <mxGraphModel dx="-2061" dy="-45" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -186,9 +186,6 @@
         <mxCell id="JywmvB-vhrz7vm3U-4dp-37" value="&lt;font color=&quot;#ffffff&quot;&gt;POI&lt;br&gt;Redis&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fontColor=#000000;fillColor=#1061B0;" parent="1" vertex="1">
           <mxGeometry x="4929" y="2468" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="foScM97vygujCWhgmhuH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="foScM97vygujCWhgmhuH-1" target="foScM97vygujCWhgmhuH-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="foScM97vygujCWhgmhuH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="foScM97vygujCWhgmhuH-1" target="foScM97vygujCWhgmhuH-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -202,9 +199,6 @@
         </mxCell>
         <mxCell id="foScM97vygujCWhgmhuH-1" value="采购单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4830" y="1360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="foScM97vygujCWhgmhuH-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4830" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="foScM97vygujCWhgmhuH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="foScM97vygujCWhgmhuH-4" target="foScM97vygujCWhgmhuH-1">
           <mxGeometry relative="1" as="geometry" />
@@ -221,7 +215,7 @@
         <mxCell id="foScM97vygujCWhgmhuH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="foScM97vygujCWhgmhuH-7" target="foScM97vygujCWhgmhuH-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="5170" y="1460" />
+              <mxPoint x="5160" y="1460" />
               <mxPoint x="5316" y="1460" />
             </Array>
           </mxGeometry>
@@ -234,6 +228,12 @@
         </mxCell>
         <mxCell id="foScM97vygujCWhgmhuH-12" value="n 个 OTA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5256" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="foScM97vygujCWhgmhuH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="foScM97vygujCWhgmhuH-14" target="foScM97vygujCWhgmhuH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foScM97vygujCWhgmhuH-14" value="自营派发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5050" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
